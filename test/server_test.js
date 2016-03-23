@@ -6,8 +6,8 @@ import request from 'supertest';
 import should from 'should';
 
 // switchboard-server app, config
-import app from '../lib/app.js';
-import config from '../lib/config.js';
+import app from '../src/app.js';
+import config from '../src/config.js';
 
 // note: npm test uses experimentsFile = ../config/experiments.json
 

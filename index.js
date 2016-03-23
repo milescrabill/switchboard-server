@@ -3,4 +3,4 @@
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
 require('babel-register');
-require('./lib/app.js');
+require('./src/app.js');
